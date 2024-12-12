@@ -1,6 +1,10 @@
 <h1>Lista de Produtos</h1>
 
-<p>Projeto desenvolvido a partir do curso de Desenvolvimento de Sistemas da ETEC</p>
+<p>Projeto desenvolvido para criar, ler, alterar e deletar itens em um banco de dados.
+   Para cara elemento da aplicação CRUD, foram utilizadas algumas boas práticas como
+   instanciar a conexão com o banco de dados, criar a sentença SQL e fechar a conexão
+   com o banco de dados.
+</p>
 
 ## Tecnologias
 
